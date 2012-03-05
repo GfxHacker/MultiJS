@@ -3,6 +3,9 @@
 // http://multijs.blade-productions.net
 
 MultiJS = {
+	// AJAX Namespace
 	"Ajax":  {},
+	
+	// Alert Namespace
 	"Alert": {}
 }
