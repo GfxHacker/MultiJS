@@ -1,4 +1,3 @@
-MultiJS
+MultiJS - Multi Javascript framework
 =======
-Multi Javascript framework
 --------------------------
