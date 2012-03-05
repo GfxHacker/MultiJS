@@ -3,5 +3,6 @@
 // http://multijs.blade-productions.net
 
 MultiJS = {
-
+	"Ajax":  {},
+	"Alert": {}
 }
