@@ -7,5 +7,11 @@ MultiJS = {
 	"Ajax":  {},
 	
 	// Alert Namespace
-	"Alert": {}
+	"Alert": {},
+	
+	// Effect Namespace
+	"Effect": {},
+	
+	// Style Namespace
+	"Style": {}
 }
